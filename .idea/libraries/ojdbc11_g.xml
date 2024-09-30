@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ojdbc11_g">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../app/user/product/21c/dbhomeXE/jdbc/lib/ojdbc11_g.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
